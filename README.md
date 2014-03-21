@@ -1,0 +1,2 @@
+wialon-app-dashboard-lang
+=========================
