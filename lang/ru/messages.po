@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-04-16 08:12+0000\n"
+"PO-Revision-Date: 2014-01-24 09:19+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: dashboard/dutil.js:257
+msgid "%.1f km"
+msgstr "%.1f км"
+
+#: dashboard/dutil.js:237
+msgid "%.1f kph"
+msgstr "%.1f км/ч"
+
+#: dashboard/dutil.js:258
+msgid "%d s"
+msgstr "%d с"
+
+#: dashboard/dutil.js:276
+msgid "%.1f l/100km"
+msgstr "%.1f л/100км"
+
+#: dashboard/dutil.js:279
+msgid "%.1f l/h"
+msgstr "%.1f л/ч"
+
+#: dashboard/dutil.js:282
+msgid "%.1f l/ha"
+msgstr "%.1f л/га"
+
+#: dashboard/avl_unit.js:260 dashboard/avl_unit.js:246
+msgid "#"
+msgstr ""
+
+#: dashboard/avl_unit.js:263 dashboard/avl_unit.js:249
+msgid "Name"
+msgstr "Имя"
+
+#: dashboard/avl_unit.js:266 dashboard/avl_unit.js:252
+msgid "Speed"
+msgstr "Скорость"
+
+#: dashboard/dutil.js:96 dashboard/dutil.js:95
+msgid "Geofences"
+msgstr "Геозоны"
+
+#: dashboard/avl_unit.js:105 dashboard/avl_unit.js:91
+msgid "Visits"
+msgstr "Посещений"
+
+#: dashboard/avl_unit.js:224
+#, fuzzy
+msgid " kph"
+msgstr " км/ч"
+
+#: dashboard/dutil.js:273
+#, fuzzy
+msgid "%.1f l"
+msgstr "%.1f л"
+
+#: dashboard/dutil.js:257
+#, fuzzy
+msgid "%.1f mi"
+msgstr "%.1f ми"
+
+#: dashboard/dutil.js:242
+#, fuzzy
+msgid "%.1f mi/h"
+msgstr "%.1f ми/ч"
+
+#: dashboard/dutil.js:242
+#, fuzzy
+msgid "%.1f km/h"
+msgstr "%.1f км/ч"
+
+#: dashboard/avl_unit.js:301 dashboard/avl_unit.js:299
+#: dashboard/avl_unit.js:339
+#, fuzzy
+msgid " mi/h"
+msgstr " ми/ч"
+
+#: dashboard/avl_unit.js:301 dashboard/avl_unit.js:299
+#: dashboard/avl_unit.js:339
+#, fuzzy
+msgid " km/h"
+msgstr " км/ч"
+
+#: dashboard/dutil.js:273
+#, fuzzy
+msgid "%.1f gal"
+msgstr "%.1f гал"
+
+#: dashboard/dutil.js:81 dashboard/dutil.js:80
+#, fuzzy
+msgid "Fuel consumption"
+msgstr "Расход топлива"
+
+#: dashboard/dutil.js:87 dashboard/dutil.js:86
+#, fuzzy
+msgid "Average speed"
+msgstr "Средняя скорость"
+
+#: dashboard/dutil.js:90 dashboard/dutil.js:89
+#, fuzzy
+msgid "Maximum speed"
+msgstr "Максимальная скорость"
+
+#: dashboard/dutil.js:93 dashboard/dutil.js:92
+msgid "Idling"
+msgstr "Простой"
+
+#: dashboard/avl_unit.js:104 dashboard/avl_unit.js:90
+#, fuzzy
+msgid "Geofence"
+msgstr "Геозона"
+
+#: dashboard/avl_unit.js:264 dashboard/avl_unit.js:250
+msgid "Location"
+msgstr "Положение"
+
+#: dashboard/avl_unit.js:265 dashboard/avl_unit.js:251
+#, fuzzy
+msgid "Last message"
+msgstr "Последнее сообщение"
+
+#: dashboard/dutil.js:75 dashboard/dutil.js:74
+#, fuzzy
+msgid "Units"
+msgstr "Объекты"
+
+#: dashboard/dutil.js:78 dashboard/dutil.js:77
+msgid "Mileage"
+msgstr "Пробег"
+
+#: dashboard/dutil.js:84 dashboard/dutil.js:83
+#, fuzzy
+msgid "Engine hours"
+msgstr "Моточасы"
+
+#: dashboard/dutil.js:99 dashboard/dutil.js:98
+msgid "Time in trips"
+msgstr "Длительность поездок"
+
+#: dashboard/dutil.js:188
+msgid "%s on %s"
+msgstr "%s за %s"
+
+#: dashboard/dutil.js:114
+msgid "Top"
+msgstr "Первые"
+
+#: dashboard/dutil.js:116
+msgid "Last"
+msgstr "Последние"
+
+#: dashboard/dutil.js:310
+msgid "mi"
+msgstr "ми"
+
+#: dashboard/dutil.js:310
+msgid "km"
+msgstr "км"
+
+#: dashboard/dutil.js:313
+#, fuzzy
+msgid "mi/h"
+msgstr "ми/ч"
+
+#: dashboard/dutil.js:295 dashboard/dutil.js:313
+#, fuzzy
+msgid "km/h"
+msgstr "км/ч"
+
+#: dashboard/dutil.js:323
+msgid "Time"
+msgstr "Время"
+
+#: dashboard/dutil.js:326
+msgid "gal"
+msgstr "гал"
+
+#: dashboard/dutil.js:326
+msgid "l"
+msgstr "л"
+
+#: dashboard/dutil.js:329
+#, fuzzy
+msgid "l/100km"
+msgstr "л/100км"
+
+#: dashboard/dutil.js:332
+msgid "l/h"
+msgstr "л/ч"
+
+#: dashboard/dutil.js:335
+#, fuzzy
+msgid "l/ha"
+msgstr "л/га"
+
+#: dashboard/dutil.js:260
+#, fuzzy
+msgid "%d mi/h"
+msgstr "%d ми/ч"
+
+#: dashboard/dutil.js:260
+#, fuzzy
+msgid "%d km/h"
+msgstr "%d км/ч"
+
+#: dashboard/avl_unit.js:257
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: dashboard/avl_unit.js:258
+msgid "Monday"
+msgstr "Понедельник"
+
+#: dashboard/avl_unit.js:259
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: dashboard/avl_unit.js:260
+msgid "Wednesday"
+msgstr "Среда"
+
+#: dashboard/avl_unit.js:261
+msgid "Thursday"
+msgstr "Четверг"
+
+#: dashboard/avl_unit.js:262
+msgid "Friday"
+msgstr "Пятница"
+
+#: dashboard/avl_unit.js:263
+msgid "Saturday"
+msgstr "Суббота"
+
+#: dashboard/avl_unit.js:266
+msgid "Sun"
+msgstr "Вск"
+
+#: dashboard/avl_unit.js:267
+msgid "Mon"
+msgstr "Пнд"
+
+#: dashboard/avl_unit.js:268
+msgid "Tue"
+msgstr "Втр"
+
+#: dashboard/avl_unit.js:269
+msgid "Wed"
+msgstr "Срд"
+
+#: dashboard/avl_unit.js:270
+msgid "Thu"
+msgstr "Чтв"
+
+#: dashboard/avl_unit.js:271
+msgid "Fri"
+msgstr "Птн"
+
+#: dashboard/avl_unit.js:272
+msgid "Sat"
+msgstr "Сбт"
+
+#: dashboard/avl_unit.js:275
+msgid "January"
+msgstr "Январь"
+
+#: dashboard/avl_unit.js:276
+msgid "February"
+msgstr "Февраль"
+
+#: dashboard/avl_unit.js:277
+msgid "March"
+msgstr "Март"
+
+#: dashboard/avl_unit.js:278
+msgid "April"
+msgstr "Апрель"
+
+#: dashboard/avl_unit.js:279 dashboard/avl_unit.js:293
+msgid "May"
+msgstr "Май"
+
+#: dashboard/avl_unit.js:280
+msgid "June"
+msgstr "Июнь"
+
+#: dashboard/avl_unit.js:281
+msgid "July"
+msgstr "Июль"
+
+#: dashboard/avl_unit.js:282
+msgid "August"
+msgstr "Август"
+
+#: dashboard/avl_unit.js:283
+msgid "September"
+msgstr "Сентябрь"
+
+#: dashboard/avl_unit.js:284
+msgid "October"
+msgstr "Октябрь"
+
+#: dashboard/avl_unit.js:285
+msgid "November"
+msgstr "Ноябрь"
+
+#: dashboard/avl_unit.js:286
+msgid "December"
+msgstr "Декабрь"
+
+#: dashboard/avl_unit.js:289
+msgid "Jan"
+msgstr "Янв"
+
+#: dashboard/avl_unit.js:290
+msgid "Feb"
+msgstr "Фев"
+
+#: dashboard/avl_unit.js:291
+msgid "Mar"
+msgstr "Мар"
+
+#: dashboard/avl_unit.js:292
+msgid "Apr"
+msgstr "Апр"
+
+#: dashboard/avl_unit.js:294
+msgid "Jun"
+msgstr "Июн"
+
+#: dashboard/avl_unit.js:295
+msgid "Jul"
+msgstr "Июл"
+
+#: dashboard/avl_unit.js:296
+msgid "Aug"
+msgstr "Авг"
+
+#: dashboard/avl_unit.js:297
+msgid "Sep"
+msgstr "Сен"
+
+#: dashboard/avl_unit.js:298
+msgid "Oct"
+msgstr "Окт"
+
+#: dashboard/avl_unit.js:299
+msgid "Nov"
+msgstr "Ноя"
+
+#: dashboard/avl_unit.js:300
+msgid "Dec"
+msgstr "Дек"
+
+#: dashboard/avl_unit.js:302
+msgid "AM"
+msgstr ""
+
+#: dashboard/avl_unit.js:303
+msgid "PM"
+msgstr ""
+
+#: dashboard/avl_unit.js:304
+msgid "am"
+msgstr ""
+
+#: dashboard/avl_unit.js:305
+msgid "pm"
+msgstr ""
