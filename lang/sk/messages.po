@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Language-Team: none\n"
 "PO-Revision-Date: 2014-04-16 08:12+0000\n"
-"Language: hu\n"
+"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2014-04-16 08:12+0000\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: dashboard/dutil.js:237
 msgid "%.1f kph"
-msgstr ""
+msgstr "%.1f km/h"
 
 #: dashboard/dutil.js:258
 msgid "%d s"
@@ -41,23 +41,23 @@ msgstr ""
 
 #: dashboard/avl_unit.js:263 dashboard/avl_unit.js:249
 msgid "Name"
-msgstr ""
+msgstr "Názov"
 
 #: dashboard/avl_unit.js:266 dashboard/avl_unit.js:252
 msgid "Speed"
-msgstr ""
+msgstr "Rýchlosť"
 
 #: dashboard/dutil.js:96 dashboard/dutil.js:95
 msgid "Geofences"
-msgstr ""
+msgstr "Ohraničenia"
 
 #: dashboard/avl_unit.js:105 dashboard/avl_unit.js:91
 msgid "Visits"
-msgstr ""
+msgstr "Návštevy"
 
 #: dashboard/avl_unit.js:224
 msgid " kph"
-msgstr ""
+msgstr " km/h"
 
 #: dashboard/dutil.js:273
 msgid "%.1f l"
@@ -91,47 +91,47 @@ msgstr ""
 
 #: dashboard/dutil.js:81 dashboard/dutil.js:80
 msgid "Fuel consumption"
-msgstr ""
+msgstr "Spotreba paliva"
 
 #: dashboard/dutil.js:87 dashboard/dutil.js:86
 msgid "Average speed"
-msgstr ""
+msgstr "Priemerná rýchlosť"
 
 #: dashboard/dutil.js:90 dashboard/dutil.js:89
 msgid "Maximum speed"
-msgstr ""
+msgstr "Maximálna rýchlosť"
 
 #: dashboard/dutil.js:93 dashboard/dutil.js:92
 msgid "Idling"
-msgstr ""
+msgstr "Voľnobeh"
 
 #: dashboard/avl_unit.js:104 dashboard/avl_unit.js:90
 msgid "Geofence"
-msgstr ""
+msgstr "Ohraničenie"
 
 #: dashboard/avl_unit.js:264 dashboard/avl_unit.js:250
 msgid "Location"
-msgstr ""
+msgstr "Umiestnenie"
 
 #: dashboard/avl_unit.js:265 dashboard/avl_unit.js:251
 msgid "Last message"
-msgstr ""
+msgstr "Posledná správa"
 
 #: dashboard/dutil.js:75 dashboard/dutil.js:74
 msgid "Units"
-msgstr ""
+msgstr "Vozidlá"
 
 #: dashboard/dutil.js:78 dashboard/dutil.js:77
 msgid "Mileage"
-msgstr ""
+msgstr "Vzdialenosť"
 
 #: dashboard/dutil.js:84 dashboard/dutil.js:83
 msgid "Engine hours"
-msgstr ""
+msgstr "Motohodiny"
 
 #: dashboard/dutil.js:99 dashboard/dutil.js:98
 msgid "Time in trips"
-msgstr ""
+msgstr "Čas na cestách"
 
 #: dashboard/dutil.js:188
 msgid "%s on %s"
@@ -163,7 +163,7 @@ msgstr ""
 
 #: dashboard/dutil.js:323
 msgid "Time"
-msgstr ""
+msgstr "Čas"
 
 #: dashboard/dutil.js:326
 msgid "gal"
@@ -195,107 +195,107 @@ msgstr ""
 
 #: dashboard/avl_unit.js:257
 msgid "Sunday"
-msgstr ""
+msgstr "Nedeľa"
 
 #: dashboard/avl_unit.js:258
 msgid "Monday"
-msgstr ""
+msgstr "Pondelok"
 
 #: dashboard/avl_unit.js:259
 msgid "Tuesday"
-msgstr ""
+msgstr "Utorok"
 
 #: dashboard/avl_unit.js:260
 msgid "Wednesday"
-msgstr ""
+msgstr "Streda"
 
 #: dashboard/avl_unit.js:261
 msgid "Thursday"
-msgstr ""
+msgstr "Štvrtok"
 
 #: dashboard/avl_unit.js:262
 msgid "Friday"
-msgstr ""
+msgstr "Piatok"
 
 #: dashboard/avl_unit.js:263
 msgid "Saturday"
-msgstr ""
+msgstr "Sobota"
 
 #: dashboard/avl_unit.js:266
 msgid "Sun"
-msgstr ""
+msgstr "Ned"
 
 #: dashboard/avl_unit.js:267
 msgid "Mon"
-msgstr ""
+msgstr "Pon"
 
 #: dashboard/avl_unit.js:268
 msgid "Tue"
-msgstr ""
+msgstr "Ut"
 
 #: dashboard/avl_unit.js:269
 msgid "Wed"
-msgstr ""
+msgstr "Str"
 
 #: dashboard/avl_unit.js:270
 msgid "Thu"
-msgstr ""
+msgstr "Štv"
 
 #: dashboard/avl_unit.js:271
 msgid "Fri"
-msgstr ""
+msgstr "Pia"
 
 #: dashboard/avl_unit.js:272
 msgid "Sat"
-msgstr ""
+msgstr "Sob"
 
 #: dashboard/avl_unit.js:275
 msgid "January"
-msgstr ""
+msgstr "Január"
 
 #: dashboard/avl_unit.js:276
 msgid "February"
-msgstr ""
+msgstr "Február"
 
 #: dashboard/avl_unit.js:277
 msgid "March"
-msgstr ""
+msgstr "Marec"
 
 #: dashboard/avl_unit.js:278
 msgid "April"
-msgstr ""
+msgstr "Apríl"
 
 #: dashboard/avl_unit.js:279 dashboard/avl_unit.js:293
 msgid "May"
-msgstr ""
+msgstr "Máj"
 
 #: dashboard/avl_unit.js:280
 msgid "June"
-msgstr ""
+msgstr "Jún"
 
 #: dashboard/avl_unit.js:281
 msgid "July"
-msgstr ""
+msgstr "Júl"
 
 #: dashboard/avl_unit.js:282
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #: dashboard/avl_unit.js:283
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #: dashboard/avl_unit.js:284
 msgid "October"
-msgstr ""
+msgstr "Október"
 
 #: dashboard/avl_unit.js:285
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #: dashboard/avl_unit.js:286
 msgid "December"
-msgstr ""
+msgstr "December"
 
 #: dashboard/avl_unit.js:289
 msgid "Jan"
