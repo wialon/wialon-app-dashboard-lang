@@ -103,7 +103,7 @@ msgstr "Maximálna rýchlosť"
 
 #: dashboard/dutil.js:93 dashboard/dutil.js:92
 msgid "Idling"
-msgstr "Voľnobeh"
+msgstr "Nečinnosť"
 
 #: dashboard/avl_unit.js:104 dashboard/avl_unit.js:90
 msgid "Geofence"
