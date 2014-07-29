@@ -1,17 +1,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2014-07-28 12:30+0000\n"
 "PO-Revision-Date: 2014-04-16 08:12+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2014-04-16 08:12+0000\n"
-"Content-Type: text/plain; charset=ASCII\n"
-"Last-Translator: Automatically generated\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: dashboard/dutil.js:257
+#: dashboard/dutil.js:257 dashboard/dutil.js:332 dashboard/dutil.js:434
+#: dashboard/dutil.js:340 dashboard/dutil.js:446 dashboard/dutil.js:348
+#: dashboard/dutil.js:454 dashboard/dutil.js:346 dashboard/dutil.js:452
 msgid "%.1f km"
 msgstr ""
 
@@ -23,35 +25,43 @@ msgstr ""
 msgid "%d s"
 msgstr ""
 
-#: dashboard/dutil.js:276
+#: dashboard/dutil.js:276 dashboard/dutil.js:351 dashboard/dutil.js:359
+#: dashboard/dutil.js:367 dashboard/dutil.js:365
 msgid "%.1f l/100km"
 msgstr ""
 
-#: dashboard/dutil.js:279
+#: dashboard/dutil.js:279 dashboard/dutil.js:354 dashboard/dutil.js:362
+#: dashboard/dutil.js:370 dashboard/dutil.js:368
 msgid "%.1f l/h"
 msgstr ""
 
-#: dashboard/dutil.js:282
+#: dashboard/dutil.js:282 dashboard/dutil.js:357 dashboard/dutil.js:365
+#: dashboard/dutil.js:373 dashboard/dutil.js:371
 msgid "%.1f l/ha"
 msgstr ""
 
 #: dashboard/avl_unit.js:260 dashboard/avl_unit.js:246
+#: dashboard/avl_unit.js:297 dashboard/avl_object.js:322
 msgid "#"
 msgstr ""
 
 #: dashboard/avl_unit.js:263 dashboard/avl_unit.js:249
+#: dashboard/avl_unit.js:300 dashboard/avl_object.js:325
 msgid "Name"
 msgstr ""
 
 #: dashboard/avl_unit.js:266 dashboard/avl_unit.js:252
+#: dashboard/avl_unit.js:303 dashboard/avl_object.js:328
 msgid "Speed"
 msgstr ""
 
-#: dashboard/dutil.js:96 dashboard/dutil.js:95
+#: dashboard/dutil.js:96 dashboard/dutil.js:113 dashboard/dutil.js:145
+#: dashboard/dutil.js:149
 msgid "Geofences"
 msgstr ""
 
 #: dashboard/avl_unit.js:105 dashboard/avl_unit.js:91
+#: dashboard/avl_unit.js:102 dashboard/avl_object.js:104
 msgid "Visits"
 msgstr ""
 
@@ -59,300 +69,440 @@ msgstr ""
 msgid " kph"
 msgstr ""
 
-#: dashboard/dutil.js:273
+#: dashboard/dutil.js:273 dashboard/dutil.js:348 dashboard/dutil.js:443
+#: dashboard/dutil.js:356 dashboard/dutil.js:455 dashboard/dutil.js:364
+#: dashboard/dutil.js:463 dashboard/dutil.js:362 dashboard/dutil.js:461
 msgid "%.1f l"
 msgstr ""
 
-#: dashboard/dutil.js:257
+#: dashboard/dutil.js:257 dashboard/dutil.js:332 dashboard/dutil.js:434
+#: dashboard/dutil.js:340 dashboard/dutil.js:446 dashboard/dutil.js:348
+#: dashboard/dutil.js:454 dashboard/dutil.js:346 dashboard/dutil.js:452
 msgid "%.1f mi"
 msgstr ""
 
-#: dashboard/dutil.js:242
+#: dashboard/dutil.js:242 dashboard/dutil.js:437 dashboard/dutil.js:449
+#: dashboard/dutil.js:457 dashboard/dutil.js:455
 msgid "%.1f mi/h"
 msgstr ""
 
-#: dashboard/dutil.js:242
+#: dashboard/dutil.js:242 dashboard/dutil.js:437 dashboard/dutil.js:449
+#: dashboard/dutil.js:457 dashboard/dutil.js:455
 msgid "%.1f km/h"
 msgstr ""
 
 #: dashboard/avl_unit.js:301 dashboard/avl_unit.js:299
-#: dashboard/avl_unit.js:339
+#: dashboard/avl_unit.js:339 dashboard/avl_unit.js:390
+#: dashboard/avl_object.js:416
 msgid " mi/h"
 msgstr ""
 
 #: dashboard/avl_unit.js:301 dashboard/avl_unit.js:299
-#: dashboard/avl_unit.js:339
+#: dashboard/avl_unit.js:339 dashboard/avl_unit.js:390
+#: dashboard/avl_object.js:416
 msgid " km/h"
 msgstr ""
 
-#: dashboard/dutil.js:273
+#: dashboard/dutil.js:273 dashboard/dutil.js:348 dashboard/dutil.js:443
+#: dashboard/dutil.js:356 dashboard/dutil.js:455 dashboard/dutil.js:364
+#: dashboard/dutil.js:463 dashboard/dutil.js:362 dashboard/dutil.js:461
 msgid "%.1f gal"
 msgstr ""
 
-#: dashboard/dutil.js:81 dashboard/dutil.js:80
+#: dashboard/dutil.js:81 dashboard/dutil.js:80 dashboard/dutil.js:112
+#: dashboard/dutil.js:115 dashboard/dutil.js:118 dashboard/dutil.js:121
+#: dashboard/dutil.js:124 dashboard/dutil.js:127 dashboard/dutil.js:130
+#: dashboard/dutil.js:116 dashboard/dutil.js:119 dashboard/dutil.js:122
+#: dashboard/dutil.js:125 dashboard/dutil.js:128 dashboard/dutil.js:131
+#: dashboard/dutil.js:134
 msgid "Fuel consumption"
 msgstr ""
 
-#: dashboard/dutil.js:87 dashboard/dutil.js:86
+#: dashboard/dutil.js:87 dashboard/dutil.js:104 dashboard/dutil.js:136
+#: dashboard/dutil.js:140
 msgid "Average speed"
 msgstr ""
 
-#: dashboard/dutil.js:90 dashboard/dutil.js:89
+#: dashboard/dutil.js:90 dashboard/dutil.js:107 dashboard/dutil.js:139
+#: dashboard/dutil.js:143
 msgid "Maximum speed"
 msgstr ""
 
-#: dashboard/dutil.js:93 dashboard/dutil.js:92
+#: dashboard/dutil.js:93 dashboard/dutil.js:110 dashboard/dutil.js:142
+#: dashboard/dutil.js:146
 msgid "Idling"
 msgstr ""
 
 #: dashboard/avl_unit.js:104 dashboard/avl_unit.js:90
+#: dashboard/avl_unit.js:101 dashboard/avl_object.js:103
 msgid "Geofence"
 msgstr ""
 
 #: dashboard/avl_unit.js:264 dashboard/avl_unit.js:250
+#: dashboard/avl_unit.js:301 dashboard/avl_object.js:326
 msgid "Location"
 msgstr ""
 
 #: dashboard/avl_unit.js:265 dashboard/avl_unit.js:251
+#: dashboard/avl_unit.js:302 dashboard/avl_object.js:327
 msgid "Last message"
 msgstr ""
 
-#: dashboard/dutil.js:75 dashboard/dutil.js:74
+#: dashboard/dutil.js:75 dashboard/dutil.js:74 dashboard/dutil.js:106
+#: dashboard/dutil.js:110
 msgid "Units"
 msgstr ""
 
-#: dashboard/dutil.js:78 dashboard/dutil.js:77
+#: dashboard/dutil.js:78 dashboard/dutil.js:77 dashboard/dutil.js:109
+#: dashboard/dutil.js:113
 msgid "Mileage"
 msgstr ""
 
-#: dashboard/dutil.js:84 dashboard/dutil.js:83
+#: dashboard/dutil.js:84 dashboard/dutil.js:101 dashboard/dutil.js:133
+#: dashboard/dutil.js:137
 msgid "Engine hours"
 msgstr ""
 
-#: dashboard/dutil.js:99 dashboard/dutil.js:98
+#: dashboard/dutil.js:99 dashboard/dutil.js:148 dashboard/dutil.js:152
 msgid "Time in trips"
 msgstr ""
 
-#: dashboard/dutil.js:188
+#: dashboard/dutil.js:188 dashboard/dutil.js:271 dashboard/dutil.js:279
+#: dashboard/dutil.js:287 dashboard/dutil.js:285
 msgid "%s on %s"
 msgstr ""
 
-#: dashboard/dutil.js:114
-msgid "Top"
-msgstr ""
-
-#: dashboard/dutil.js:116
-msgid "Last"
-msgstr ""
-
-#: dashboard/dutil.js:310
+#: dashboard/dutil.js:310 dashboard/dutil.js:385 dashboard/dutil.js:394
+#: dashboard/dutil.js:402 dashboard/dutil.js:400
 msgid "mi"
 msgstr ""
 
-#: dashboard/dutil.js:310
+#: dashboard/dutil.js:310 dashboard/dutil.js:385 dashboard/dutil.js:394
+#: dashboard/dutil.js:402 dashboard/dutil.js:400
 msgid "km"
 msgstr ""
 
-#: dashboard/dutil.js:313
+#: dashboard/dutil.js:313 dashboard/dutil.js:388 dashboard/dutil.js:398
+#: dashboard/dutil.js:406 dashboard/dutil.js:404
 msgid "mi/h"
 msgstr ""
 
-#: dashboard/dutil.js:295 dashboard/dutil.js:313
+#: dashboard/dutil.js:331 dashboard/dutil.js:388 dashboard/dutil.js:398
+#: dashboard/dutil.js:406 dashboard/dutil.js:404
 msgid "km/h"
 msgstr ""
 
-#: dashboard/dutil.js:323
+#: dashboard/dutil.js:323 dashboard/dutil.js:398 dashboard/dutil.js:409
+#: dashboard/dutil.js:417 dashboard/dutil.js:415
 msgid "Time"
 msgstr ""
 
-#: dashboard/dutil.js:326
+#: dashboard/dutil.js:326 dashboard/dutil.js:401 dashboard/dutil.js:413
+#: dashboard/dutil.js:421 dashboard/dutil.js:419
 msgid "gal"
 msgstr ""
 
-#: dashboard/dutil.js:326
+#: dashboard/dutil.js:326 dashboard/dutil.js:401 dashboard/dutil.js:413
+#: dashboard/dutil.js:421 dashboard/dutil.js:419
 msgid "l"
 msgstr ""
 
-#: dashboard/dutil.js:329
+#: dashboard/dutil.js:329 dashboard/dutil.js:404 dashboard/dutil.js:416
+#: dashboard/dutil.js:424 dashboard/dutil.js:422
 msgid "l/100km"
 msgstr ""
 
-#: dashboard/dutil.js:332
+#: dashboard/dutil.js:332 dashboard/dutil.js:407 dashboard/dutil.js:419
+#: dashboard/dutil.js:427 dashboard/dutil.js:425
 msgid "l/h"
 msgstr ""
 
-#: dashboard/dutil.js:335
+#: dashboard/dutil.js:335 dashboard/dutil.js:410 dashboard/dutil.js:422
+#: dashboard/dutil.js:430 dashboard/dutil.js:428
 msgid "l/ha"
 msgstr ""
 
-#: dashboard/dutil.js:260
+#: dashboard/dutil.js:260 dashboard/dutil.js:335 dashboard/dutil.js:343
+#: dashboard/dutil.js:351 dashboard/dutil.js:349
 msgid "%d mi/h"
 msgstr ""
 
-#: dashboard/dutil.js:260
+#: dashboard/dutil.js:260 dashboard/dutil.js:335 dashboard/dutil.js:343
+#: dashboard/dutil.js:351 dashboard/dutil.js:349
 msgid "%d km/h"
 msgstr ""
 
-#: dashboard/avl_unit.js:257
+#: dashboard/avl_unit.js:257 dashboard/avl_unit.js:308
+#: dashboard/avl_object.js:333
 msgid "Sunday"
 msgstr ""
 
-#: dashboard/avl_unit.js:258
+#: dashboard/avl_unit.js:258 dashboard/avl_unit.js:309
+#: dashboard/avl_object.js:334
 msgid "Monday"
 msgstr ""
 
-#: dashboard/avl_unit.js:259
+#: dashboard/avl_unit.js:259 dashboard/avl_unit.js:310
+#: dashboard/avl_object.js:335
 msgid "Tuesday"
 msgstr ""
 
-#: dashboard/avl_unit.js:260
+#: dashboard/avl_unit.js:260 dashboard/avl_unit.js:311
+#: dashboard/avl_object.js:336
 msgid "Wednesday"
 msgstr ""
 
-#: dashboard/avl_unit.js:261
+#: dashboard/avl_unit.js:261 dashboard/avl_unit.js:312
+#: dashboard/avl_object.js:337
 msgid "Thursday"
 msgstr ""
 
-#: dashboard/avl_unit.js:262
+#: dashboard/avl_unit.js:262 dashboard/avl_unit.js:313
+#: dashboard/avl_object.js:338
 msgid "Friday"
 msgstr ""
 
-#: dashboard/avl_unit.js:263
+#: dashboard/avl_unit.js:263 dashboard/avl_unit.js:314
+#: dashboard/avl_object.js:339
 msgid "Saturday"
 msgstr ""
 
-#: dashboard/avl_unit.js:266
+#: dashboard/avl_unit.js:266 dashboard/avl_unit.js:317
+#: dashboard/avl_object.js:342
 msgid "Sun"
 msgstr ""
 
-#: dashboard/avl_unit.js:267
+#: dashboard/avl_unit.js:267 dashboard/avl_unit.js:318
+#: dashboard/avl_object.js:343
 msgid "Mon"
 msgstr ""
 
-#: dashboard/avl_unit.js:268
+#: dashboard/avl_unit.js:268 dashboard/avl_unit.js:319
+#: dashboard/avl_object.js:344
 msgid "Tue"
 msgstr ""
 
-#: dashboard/avl_unit.js:269
+#: dashboard/avl_unit.js:269 dashboard/avl_unit.js:320
+#: dashboard/avl_object.js:345
 msgid "Wed"
 msgstr ""
 
-#: dashboard/avl_unit.js:270
+#: dashboard/avl_unit.js:270 dashboard/avl_unit.js:321
+#: dashboard/avl_object.js:346
 msgid "Thu"
 msgstr ""
 
-#: dashboard/avl_unit.js:271
+#: dashboard/avl_unit.js:271 dashboard/avl_unit.js:322
+#: dashboard/avl_object.js:347
 msgid "Fri"
 msgstr ""
 
-#: dashboard/avl_unit.js:272
+#: dashboard/avl_unit.js:272 dashboard/avl_unit.js:323
+#: dashboard/avl_object.js:348
 msgid "Sat"
 msgstr ""
 
-#: dashboard/avl_unit.js:275
+#: dashboard/avl_unit.js:275 dashboard/avl_unit.js:326
+#: dashboard/avl_object.js:351
 msgid "January"
 msgstr ""
 
-#: dashboard/avl_unit.js:276
+#: dashboard/avl_unit.js:276 dashboard/avl_unit.js:327
+#: dashboard/avl_object.js:352
 msgid "February"
 msgstr ""
 
-#: dashboard/avl_unit.js:277
+#: dashboard/avl_unit.js:277 dashboard/avl_unit.js:328
+#: dashboard/avl_object.js:353
 msgid "March"
 msgstr ""
 
-#: dashboard/avl_unit.js:278
+#: dashboard/avl_unit.js:278 dashboard/avl_unit.js:329
+#: dashboard/avl_object.js:354
 msgid "April"
 msgstr ""
 
 #: dashboard/avl_unit.js:279 dashboard/avl_unit.js:293
+#: dashboard/avl_unit.js:330 dashboard/avl_unit.js:344
+#: dashboard/avl_object.js:355 dashboard/avl_object.js:369
 msgid "May"
 msgstr ""
 
-#: dashboard/avl_unit.js:280
+#: dashboard/avl_unit.js:280 dashboard/avl_unit.js:331
+#: dashboard/avl_object.js:356
 msgid "June"
 msgstr ""
 
-#: dashboard/avl_unit.js:281
+#: dashboard/avl_unit.js:281 dashboard/avl_unit.js:332
+#: dashboard/avl_object.js:357
 msgid "July"
 msgstr ""
 
-#: dashboard/avl_unit.js:282
+#: dashboard/avl_unit.js:282 dashboard/avl_unit.js:333
+#: dashboard/avl_object.js:358
 msgid "August"
 msgstr ""
 
-#: dashboard/avl_unit.js:283
+#: dashboard/avl_unit.js:283 dashboard/avl_unit.js:334
+#: dashboard/avl_object.js:359
 msgid "September"
 msgstr ""
 
-#: dashboard/avl_unit.js:284
+#: dashboard/avl_unit.js:284 dashboard/avl_unit.js:335
+#: dashboard/avl_object.js:360
 msgid "October"
 msgstr ""
 
-#: dashboard/avl_unit.js:285
+#: dashboard/avl_unit.js:285 dashboard/avl_unit.js:336
+#: dashboard/avl_object.js:361
 msgid "November"
 msgstr ""
 
-#: dashboard/avl_unit.js:286
+#: dashboard/avl_unit.js:286 dashboard/avl_unit.js:337
+#: dashboard/avl_object.js:362
 msgid "December"
 msgstr ""
 
-#: dashboard/avl_unit.js:289
+#: dashboard/avl_unit.js:289 dashboard/avl_unit.js:340
+#: dashboard/avl_object.js:365
 msgid "Jan"
 msgstr ""
 
-#: dashboard/avl_unit.js:290
+#: dashboard/avl_unit.js:290 dashboard/avl_unit.js:341
+#: dashboard/avl_object.js:366
 msgid "Feb"
 msgstr ""
 
-#: dashboard/avl_unit.js:291
+#: dashboard/avl_unit.js:291 dashboard/avl_unit.js:342
+#: dashboard/avl_object.js:367
 msgid "Mar"
 msgstr ""
 
-#: dashboard/avl_unit.js:292
+#: dashboard/avl_unit.js:292 dashboard/avl_unit.js:343
+#: dashboard/avl_object.js:368
 msgid "Apr"
 msgstr ""
 
-#: dashboard/avl_unit.js:294
+#: dashboard/avl_unit.js:294 dashboard/avl_unit.js:345
+#: dashboard/avl_object.js:370
 msgid "Jun"
 msgstr ""
 
-#: dashboard/avl_unit.js:295
+#: dashboard/avl_unit.js:295 dashboard/avl_unit.js:346
+#: dashboard/avl_object.js:371
 msgid "Jul"
 msgstr ""
 
-#: dashboard/avl_unit.js:296
+#: dashboard/avl_unit.js:296 dashboard/avl_unit.js:347
+#: dashboard/avl_object.js:372
 msgid "Aug"
 msgstr ""
 
-#: dashboard/avl_unit.js:297
+#: dashboard/avl_unit.js:297 dashboard/avl_unit.js:348
+#: dashboard/avl_object.js:373
 msgid "Sep"
 msgstr ""
 
-#: dashboard/avl_unit.js:298
+#: dashboard/avl_unit.js:298 dashboard/avl_unit.js:349
+#: dashboard/avl_object.js:374
 msgid "Oct"
 msgstr ""
 
-#: dashboard/avl_unit.js:299
+#: dashboard/avl_unit.js:299 dashboard/avl_unit.js:350
+#: dashboard/avl_object.js:375
 msgid "Nov"
 msgstr ""
 
-#: dashboard/avl_unit.js:300
+#: dashboard/avl_unit.js:300 dashboard/avl_unit.js:351
+#: dashboard/avl_object.js:376
 msgid "Dec"
 msgstr ""
 
-#: dashboard/avl_unit.js:302
+#: dashboard/avl_unit.js:302 dashboard/avl_unit.js:353
+#: dashboard/avl_object.js:378
 msgid "AM"
 msgstr ""
 
-#: dashboard/avl_unit.js:303
+#: dashboard/avl_unit.js:303 dashboard/avl_unit.js:354
+#: dashboard/avl_object.js:379
 msgid "PM"
 msgstr ""
 
-#: dashboard/avl_unit.js:304
+#: dashboard/avl_unit.js:304 dashboard/avl_unit.js:355
+#: dashboard/avl_object.js:380
 msgid "am"
 msgstr ""
 
-#: dashboard/avl_unit.js:305
+#: dashboard/avl_unit.js:305 dashboard/avl_unit.js:356
+#: dashboard/avl_object.js:381
 msgid "pm"
+msgstr ""
+
+#: dashboard/dutil.js:83 dashboard/dutil.js:115 dashboard/dutil.js:180
+#: dashboard/dutil.js:119 dashboard/dutil.js:188 dashboard/dutil.js:196
+#: dashboard/dutil.js:194
+msgid "by ImpFCS"
+msgstr ""
+
+#: dashboard/dutil.js:86 dashboard/dutil.js:118 dashboard/dutil.js:183
+#: dashboard/dutil.js:122 dashboard/dutil.js:191 dashboard/dutil.js:199
+#: dashboard/dutil.js:197
+msgid "by AbsFCS"
+msgstr ""
+
+#: dashboard/dutil.js:89 dashboard/dutil.js:121 dashboard/dutil.js:186
+#: dashboard/dutil.js:125 dashboard/dutil.js:194 dashboard/dutil.js:202
+#: dashboard/dutil.js:200
+msgid "by InsFCS"
+msgstr ""
+
+#: dashboard/dutil.js:92 dashboard/dutil.js:124 dashboard/dutil.js:189
+#: dashboard/dutil.js:128 dashboard/dutil.js:197 dashboard/dutil.js:205
+#: dashboard/dutil.js:203
+msgid "by FLS"
+msgstr ""
+
+#: dashboard/dutil.js:95 dashboard/dutil.js:127 dashboard/dutil.js:192
+#: dashboard/dutil.js:131 dashboard/dutil.js:200 dashboard/dutil.js:208
+#: dashboard/dutil.js:206
+msgid "by math"
+msgstr ""
+
+#: dashboard/dutil.js:98 dashboard/dutil.js:130 dashboard/dutil.js:195
+#: dashboard/dutil.js:134 dashboard/dutil.js:203 dashboard/dutil.js:211
+#: dashboard/dutil.js:209
+msgid "by rates"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Unit group"
+msgstr ""
+
+#: dashboard/avl_object_double_charts.js:125
+#: dashboard/avl_object_double_charts.js:132
+#: dashboard/avl_object_double_charts.js:179
+#: dashboard/avl_object_double_charts.js:187
+#: dashboard/avl_object_double_charts.js:168
+#: dashboard/avl_object_double_charts.js:176
+#: dashboard/avl_object_double_charts.js:211
+#: dashboard/avl_object_double_charts.js:217
+msgid "All units"
+msgstr ""
+
+#: dashboard/dutil.js:166
+msgid "top"
+msgstr ""
+
+#: dashboard/dutil.js:168
+msgid "last"
+msgstr ""
+
+#: dashboard/dutil.js:175
+msgid "total"
+msgstr ""
+
+#: dashboard/dutil.js:177
+msgid "average"
 msgstr ""

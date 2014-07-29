@@ -76,8 +76,16 @@ var TRANSLATIONS = {
     "Skip zeroth values": "Preskočiť nulové hodnoty",
     "N/A": "A/N",
 
-    'Oh! Unfortunately, you can\'t login': "Neplatné prihlasovacie údaje.",
-    'Oh! %%module%% didn\'t load!': "Nie je možné načitať aplikáciu.",
-    'Oh! Unfortunately, we can\'t load SDK': "Nie je možné načitať aplikáciu.",
-    'Session has been lost': "Relácia stratená."
+    "Oh! Unfortunately, you can't login": "Neplatné prihlasovacie údaje.",
+    "Oh! %%module%% didn't load!": "Nie je možné načitať aplikáciu.",
+    "Oh! Unfortunately, we can't load SDK": "Nie je možné načitať aplikáciu.",
+    "Session has been lost": "Relácia stratená.",
+
+    "Charts": "",
+    "Multicharts ": "",
+    "All units": "",
+    "Units": "",
+    "Unit groups": "",
+    "Average": "",
+    "Total": ""
 };

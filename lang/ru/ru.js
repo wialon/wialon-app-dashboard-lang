@@ -76,8 +76,16 @@ var TRANSLATIONS = {
     "Skip zeroth values": "Пропускать нулевые",
     "N/A": "Н/Д",
 
-    'Oh! Unfortunately, you can\'t login': "Неверные данные для входа в систему.",
-    'Oh! %%module%% didn\'t load!': "Невозможно загрузить приложение.",
-    'Oh! Unfortunately, we can\'t load SDK': "Невозможно загрузить приложение.",
-    'Session has been lost': "Данные сессии устарели."
+    "Oh! Unfortunately, you can't login": "Неверные данные для входа в систему.",
+    "Oh! %%module%% didn't load!": "Невозможно загрузить приложение.",
+    "Oh! Unfortunately, we can't load SDK": "Невозможно загрузить приложение.",
+    "Session has been lost": "Данные сессии устарели.",
+
+    "Charts": "Графики",
+    "Multicharts": "Мультиграфики",
+    "All units": "Все объекты",
+    "Units": "Объекты",
+    "Unit groups": "Группы объектов",
+    "Average": "Среднее",
+    "Total": "Суммарное"
 };
