@@ -466,7 +466,7 @@ msgstr "palivomerom"
 #: dashboard/dutil.js:131 dashboard/dutil.js:200 dashboard/dutil.js:208
 #: dashboard/dutil.js:206
 msgid "by math"
-msgstr "výpočtom
+msgstr "výpočtom"
 
 #: dashboard/dutil.js:98 dashboard/dutil.js:130 dashboard/dutil.js:195
 #: dashboard/dutil.js:134 dashboard/dutil.js:203 dashboard/dutil.js:211
