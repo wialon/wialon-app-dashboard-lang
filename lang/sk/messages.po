@@ -442,43 +442,43 @@ msgstr ""
 #: dashboard/dutil.js:119 dashboard/dutil.js:188 dashboard/dutil.js:196
 #: dashboard/dutil.js:194
 msgid "by ImpFCS"
-msgstr ""
+msgstr "ImpFCS"
 
 #: dashboard/dutil.js:86 dashboard/dutil.js:118 dashboard/dutil.js:183
 #: dashboard/dutil.js:122 dashboard/dutil.js:191 dashboard/dutil.js:199
 #: dashboard/dutil.js:197
 msgid "by AbsFCS"
-msgstr ""
+msgstr "absolútna"
 
 #: dashboard/dutil.js:89 dashboard/dutil.js:121 dashboard/dutil.js:186
 #: dashboard/dutil.js:125 dashboard/dutil.js:194 dashboard/dutil.js:202
 #: dashboard/dutil.js:200
 msgid "by InsFCS"
-msgstr ""
+msgstr "InsFCS"
 
 #: dashboard/dutil.js:92 dashboard/dutil.js:124 dashboard/dutil.js:189
 #: dashboard/dutil.js:128 dashboard/dutil.js:197 dashboard/dutil.js:205
 #: dashboard/dutil.js:203
 msgid "by FLS"
-msgstr ""
+msgstr "palivomerom"
 
 #: dashboard/dutil.js:95 dashboard/dutil.js:127 dashboard/dutil.js:192
 #: dashboard/dutil.js:131 dashboard/dutil.js:200 dashboard/dutil.js:208
 #: dashboard/dutil.js:206
 msgid "by math"
-msgstr ""
+msgstr "výpočtom
 
 #: dashboard/dutil.js:98 dashboard/dutil.js:130 dashboard/dutil.js:195
 #: dashboard/dutil.js:134 dashboard/dutil.js:203 dashboard/dutil.js:211
 #: dashboard/dutil.js:209
 msgid "by rates"
-msgstr ""
+msgstr "podľa ceny"
 
 msgid "Unit"
-msgstr ""
+msgstr "Vozidlo"
 
 msgid "Unit group"
-msgstr ""
+msgstr "Skupina vozidiel"
 
 #: dashboard/avl_object_double_charts.js:125
 #: dashboard/avl_object_double_charts.js:132
@@ -489,7 +489,7 @@ msgstr ""
 #: dashboard/avl_object_double_charts.js:211
 #: dashboard/avl_object_double_charts.js:217
 msgid "All units"
-msgstr ""
+msgstr "Všetky vozidlá"
 
 #: dashboard/dutil.js:166
 msgid "top"
@@ -497,12 +497,12 @@ msgstr ""
 
 #: dashboard/dutil.js:168
 msgid "last"
-msgstr ""
+msgstr "posledné"
 
 #: dashboard/dutil.js:175
 msgid "total"
-msgstr ""
+msgstr "celkovo"
 
 #: dashboard/dutil.js:177
 msgid "average"
-msgstr ""
+msgstr "priemer"
