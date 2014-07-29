@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: none\n"
+"PO-Revision-Date: 2014-04-16 08:12+0000\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-04-16 08:12+0000\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Last-Translator: Automatically generated\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: dashboard/dutil.js:257
+msgid "%.1f km"
+msgstr ""
+
+#: dashboard/dutil.js:237
+msgid "%.1f kph"
+msgstr "%.1f km/h"
+
+#: dashboard/dutil.js:258
+msgid "%d s"
+msgstr ""
+
+#: dashboard/dutil.js:276
+msgid "%.1f l/100km"
+msgstr ""
+
+#: dashboard/dutil.js:279
+msgid "%.1f l/h"
+msgstr ""
+
+#: dashboard/dutil.js:282
+msgid "%.1f l/ha"
+msgstr ""
+
+#: dashboard/avl_unit.js:260 dashboard/avl_unit.js:246
+msgid "#"
+msgstr ""
+
+#: dashboard/avl_unit.js:263 dashboard/avl_unit.js:249
+msgid "Name"
+msgstr "Názov"
+
+#: dashboard/avl_unit.js:266 dashboard/avl_unit.js:252
+msgid "Speed"
+msgstr "Rýchlosť"
+
+#: dashboard/dutil.js:96 dashboard/dutil.js:95
+msgid "Geofences"
+msgstr "Ohraničenia"
+
+#: dashboard/avl_unit.js:105 dashboard/avl_unit.js:91
+msgid "Visits"
+msgstr "Návštevy"
+
+#: dashboard/avl_unit.js:224
+msgid " kph"
+msgstr " km/h"
+
+#: dashboard/dutil.js:273
+msgid "%.1f l"
+msgstr ""
+
+#: dashboard/dutil.js:257
+msgid "%.1f mi"
+msgstr ""
+
+#: dashboard/dutil.js:242
+msgid "%.1f mi/h"
+msgstr ""
+
+#: dashboard/dutil.js:242
+msgid "%.1f km/h"
+msgstr ""
+
+#: dashboard/avl_unit.js:301 dashboard/avl_unit.js:299
+#: dashboard/avl_unit.js:339
+msgid " mi/h"
+msgstr ""
+
+#: dashboard/avl_unit.js:301 dashboard/avl_unit.js:299
+#: dashboard/avl_unit.js:339
+msgid " km/h"
+msgstr ""
+
+#: dashboard/dutil.js:273
+msgid "%.1f gal"
+msgstr ""
+
+#: dashboard/dutil.js:81 dashboard/dutil.js:80
+msgid "Fuel consumption"
+msgstr "Spotreba paliva"
+
+#: dashboard/dutil.js:87 dashboard/dutil.js:86
+msgid "Average speed"
+msgstr "Priemerná rýchlosť"
+
+#: dashboard/dutil.js:90 dashboard/dutil.js:89
+msgid "Maximum speed"
+msgstr "Maximálna rýchlosť"
+
+#: dashboard/dutil.js:93 dashboard/dutil.js:92
+msgid "Idling"
+msgstr "Nečinnosť"
+
+#: dashboard/avl_unit.js:104 dashboard/avl_unit.js:90
+msgid "Geofence"
+msgstr "Ohraničenie"
+
+#: dashboard/avl_unit.js:264 dashboard/avl_unit.js:250
+msgid "Location"
+msgstr "Umiestnenie"
+
+#: dashboard/avl_unit.js:265 dashboard/avl_unit.js:251
+msgid "Last message"
+msgstr "Posledná správa"
+
+#: dashboard/dutil.js:75 dashboard/dutil.js:74
+msgid "Units"
+msgstr "Vozidlá"
+
+#: dashboard/dutil.js:78 dashboard/dutil.js:77
+msgid "Mileage"
+msgstr "Vzdialenosť"
+
+#: dashboard/dutil.js:84 dashboard/dutil.js:83
+msgid "Engine hours"
+msgstr "Motohodiny"
+
+#: dashboard/dutil.js:99 dashboard/dutil.js:98
+msgid "Time in trips"
+msgstr "Čas na cestách"
+
+#: dashboard/dutil.js:188
+msgid "%s on %s"
+msgstr ""
+
+#: dashboard/dutil.js:114
+msgid "Top"
+msgstr ""
+
+#: dashboard/dutil.js:116
+msgid "Last"
+msgstr ""
+
+#: dashboard/dutil.js:310
+msgid "mi"
+msgstr ""
+
+#: dashboard/dutil.js:310
+msgid "km"
+msgstr ""
+
+#: dashboard/dutil.js:313
+msgid "mi/h"
+msgstr ""
+
+#: dashboard/dutil.js:295 dashboard/dutil.js:313
+msgid "km/h"
+msgstr ""
+
+#: dashboard/dutil.js:323
+msgid "Time"
+msgstr "Čas"
+
+#: dashboard/dutil.js:326
+msgid "gal"
+msgstr ""
+
+#: dashboard/dutil.js:326
+msgid "l"
+msgstr ""
+
+#: dashboard/dutil.js:329
+msgid "l/100km"
+msgstr ""
+
+#: dashboard/dutil.js:332
+msgid "l/h"
+msgstr ""
+
+#: dashboard/dutil.js:335
+msgid "l/ha"
+msgstr ""
+
+#: dashboard/dutil.js:260
+msgid "%d mi/h"
+msgstr ""
+
+#: dashboard/dutil.js:260
+msgid "%d km/h"
+msgstr ""
+
+#: dashboard/avl_unit.js:257
+msgid "Sunday"
+msgstr "Nedeľa"
+
+#: dashboard/avl_unit.js:258
+msgid "Monday"
+msgstr "Pondelok"
+
+#: dashboard/avl_unit.js:259
+msgid "Tuesday"
+msgstr "Utorok"
+
+#: dashboard/avl_unit.js:260
+msgid "Wednesday"
+msgstr "Streda"
+
+#: dashboard/avl_unit.js:261
+msgid "Thursday"
+msgstr "Štvrtok"
+
+#: dashboard/avl_unit.js:262
+msgid "Friday"
+msgstr "Piatok"
+
+#: dashboard/avl_unit.js:263
+msgid "Saturday"
+msgstr "Sobota"
+
+#: dashboard/avl_unit.js:266
+msgid "Sun"
+msgstr "Ned"
+
+#: dashboard/avl_unit.js:267
+msgid "Mon"
+msgstr "Pon"
+
+#: dashboard/avl_unit.js:268
+msgid "Tue"
+msgstr "Ut"
+
+#: dashboard/avl_unit.js:269
+msgid "Wed"
+msgstr "Str"
+
+#: dashboard/avl_unit.js:270
+msgid "Thu"
+msgstr "Štv"
+
+#: dashboard/avl_unit.js:271
+msgid "Fri"
+msgstr "Pia"
+
+#: dashboard/avl_unit.js:272
+msgid "Sat"
+msgstr "Sob"
+
+#: dashboard/avl_unit.js:275
+msgid "January"
+msgstr "Január"
+
+#: dashboard/avl_unit.js:276
+msgid "February"
+msgstr "Február"
+
+#: dashboard/avl_unit.js:277
+msgid "March"
+msgstr "Marec"
+
+#: dashboard/avl_unit.js:278
+msgid "April"
+msgstr "Apríl"
+
+#: dashboard/avl_unit.js:279 dashboard/avl_unit.js:293
+msgid "May"
+msgstr "Máj"
+
+#: dashboard/avl_unit.js:280
+msgid "June"
+msgstr "Jún"
+
+#: dashboard/avl_unit.js:281
+msgid "July"
+msgstr "Júl"
+
+#: dashboard/avl_unit.js:282
+msgid "August"
+msgstr "August"
+
+#: dashboard/avl_unit.js:283
+msgid "September"
+msgstr "September"
+
+#: dashboard/avl_unit.js:284
+msgid "October"
+msgstr "Október"
+
+#: dashboard/avl_unit.js:285
+msgid "November"
+msgstr "November"
+
+#: dashboard/avl_unit.js:286
+msgid "December"
+msgstr "December"
+
+#: dashboard/avl_unit.js:289
+msgid "Jan"
+msgstr ""
+
+#: dashboard/avl_unit.js:290
+msgid "Feb"
+msgstr ""
+
+#: dashboard/avl_unit.js:291
+msgid "Mar"
+msgstr ""
+
+#: dashboard/avl_unit.js:292
+msgid "Apr"
+msgstr ""
+
+#: dashboard/avl_unit.js:294
+msgid "Jun"
+msgstr ""
+
+#: dashboard/avl_unit.js:295
+msgid "Jul"
+msgstr ""
+
+#: dashboard/avl_unit.js:296
+msgid "Aug"
+msgstr ""
+
+#: dashboard/avl_unit.js:297
+msgid "Sep"
+msgstr ""
+
+#: dashboard/avl_unit.js:298
+msgid "Oct"
+msgstr ""
+
+#: dashboard/avl_unit.js:299
+msgid "Nov"
+msgstr ""
+
+#: dashboard/avl_unit.js:300
+msgid "Dec"
+msgstr ""
+
+#: dashboard/avl_unit.js:302
+msgid "AM"
+msgstr ""
+
+#: dashboard/avl_unit.js:303
+msgid "PM"
+msgstr ""
+
+#: dashboard/avl_unit.js:304
+msgid "am"
+msgstr ""
+
+#: dashboard/avl_unit.js:305
+msgid "pm"
+msgstr ""
