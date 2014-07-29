@@ -141,7 +141,7 @@ msgstr "Ohraničenie"
 #: dashboard/avl_unit.js:264 dashboard/avl_unit.js:250
 #: dashboard/avl_unit.js:301 dashboard/avl_object.js:326
 msgid "Location"
-msgstr "Umiestnenie"
+msgstr "Lokalita"
 
 #: dashboard/avl_unit.js:265 dashboard/avl_unit.js:251
 #: dashboard/avl_unit.js:302 dashboard/avl_object.js:327
@@ -442,37 +442,36 @@ msgstr ""
 #: dashboard/dutil.js:119 dashboard/dutil.js:188 dashboard/dutil.js:196
 #: dashboard/dutil.js:194
 msgid "by ImpFCS"
-msgstr "ImpFCS"
+msgstr "- ImpFCS"
 
 #: dashboard/dutil.js:86 dashboard/dutil.js:118 dashboard/dutil.js:183
 #: dashboard/dutil.js:122 dashboard/dutil.js:191 dashboard/dutil.js:199
 #: dashboard/dutil.js:197
 msgid "by AbsFCS"
-msgstr "absolútna"
+msgstr "- absolútna"
 
 #: dashboard/dutil.js:89 dashboard/dutil.js:121 dashboard/dutil.js:186
 #: dashboard/dutil.js:125 dashboard/dutil.js:194 dashboard/dutil.js:202
 #: dashboard/dutil.js:200
 msgid "by InsFCS"
-msgstr "InsFCS"
+msgstr "- InsFCS"
 
 #: dashboard/dutil.js:92 dashboard/dutil.js:124 dashboard/dutil.js:189
 #: dashboard/dutil.js:128 dashboard/dutil.js:197 dashboard/dutil.js:205
 #: dashboard/dutil.js:203
 msgid "by FLS"
-msgstr "palivomerom"
+msgstr "- palivomerom"
 
 #: dashboard/dutil.js:95 dashboard/dutil.js:127 dashboard/dutil.js:192
 #: dashboard/dutil.js:131 dashboard/dutil.js:200 dashboard/dutil.js:208
 #: dashboard/dutil.js:206
 msgid "by math"
-msgstr "výpočtom"
-
+msgstr "- výpočtom"
 #: dashboard/dutil.js:98 dashboard/dutil.js:130 dashboard/dutil.js:195
 #: dashboard/dutil.js:134 dashboard/dutil.js:203 dashboard/dutil.js:211
 #: dashboard/dutil.js:209
 msgid "by rates"
-msgstr "podľa ceny"
+msgstr "- podľa ceny"
 
 msgid "Unit"
 msgstr "Vozidlo"
@@ -497,11 +496,11 @@ msgstr ""
 
 #: dashboard/dutil.js:168
 msgid "last"
-msgstr "posledné"
+msgstr "Posledných"
 
 #: dashboard/dutil.js:175
 msgid "total"
-msgstr "celkovo"
+msgstr "Prvých"
 
 #: dashboard/dutil.js:177
 msgid "average"
