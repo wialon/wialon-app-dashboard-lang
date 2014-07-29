@@ -8,7 +8,7 @@ var TRANSLATIONS = {
     "Yesterday": "Včera",
     "Week": "Týždeň",
     "Month": "Mesiac",
-    "Custom": "Ostatné",
+    "Custom": "Dátum",
     "Previous": "Späť",
     "Next": "Ďalší",
 
@@ -77,15 +77,15 @@ var TRANSLATIONS = {
     "N/A": "A/N",
 
     "Oh! Unfortunately, you can't login": "Neplatné prihlasovacie údaje.",
-    "Oh! %%module%% didn't load!": "Nie je možné načitať aplikáciu.",
-    "Oh! Unfortunately, we can't load SDK": "Nie je možné načitať aplikáciu.",
+    "Oh! %%module%% didn't load!": "Aplikáciu nie je možné načítať.",
+    "Oh! Unfortunately, we can't load SDK": "Aplikáciu nie je možné načítať.",
     "Session has been lost": "Relácia stratená.",
 
-    "Charts": "",
-    "Multicharts ": "",
-    "All units": "",
-    "Units": "",
-    "Unit groups": "",
-    "Average": "",
-    "Total": ""
+    "Charts": "Grafy",
+    "Multicharts ": "Multi Grafy",
+    "All units": "Všetky vozidlá",
+    "Units": "Vozidlá",
+    "Unit groups": "Skupiny vozidiel",
+    "Average": "Priemer",
+    "Total": "Celkovo"
 };
