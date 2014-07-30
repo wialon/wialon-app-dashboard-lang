@@ -81,8 +81,8 @@ var TRANSLATIONS = {
     "Oh! Unfortunately, we can't load SDK": "Aplikáciu nie je možné načítať.",
     "Session has been lost": "Relácia stratená.",
 
-    "Charts": "Grafy",
-    "Multicharts ": "Multi Grafy",
+    "Charts": "Graf",
+    "Multicharts ": "Multi Graf",
     "All units": "Všetky vozidlá",
     "Units": "Vozidlá",
     "Unit groups": "Skupiny vozidiel",
