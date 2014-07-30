@@ -460,7 +460,7 @@ msgstr "- InsFCS"
 #: dashboard/dutil.js:128 dashboard/dutil.js:197 dashboard/dutil.js:205
 #: dashboard/dutil.js:203
 msgid "by FLS"
-msgstr "- palivomerom"
+msgstr "- palivomer"
 
 #: dashboard/dutil.js:95 dashboard/dutil.js:127 dashboard/dutil.js:192
 #: dashboard/dutil.js:131 dashboard/dutil.js:200 dashboard/dutil.js:208
@@ -492,7 +492,7 @@ msgstr "Všetky vozidlá"
 
 #: dashboard/dutil.js:166
 msgid "top"
-msgstr ""
+msgstr "Prvých"
 
 #: dashboard/dutil.js:168
 msgid "last"
@@ -500,7 +500,7 @@ msgstr "Posledných"
 
 #: dashboard/dutil.js:175
 msgid "total"
-msgstr "Prvých"
+msgstr "Celkovo"
 
 #: dashboard/dutil.js:177
 msgid "average"
