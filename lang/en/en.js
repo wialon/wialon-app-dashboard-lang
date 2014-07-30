@@ -82,7 +82,7 @@ var TRANSLATIONS = {
     "Session has been lost": "Session lost.",
 
     "Charts": "",
-    "Multicharts ": "",
+    "Multicharts": "",
     "All units": "",
     "Units": "",
     "Unit groups": "",

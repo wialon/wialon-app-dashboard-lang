@@ -79,5 +79,13 @@ var TRANSLATIONS = {
     'Oh! Unfortunately, you can\'t login': 'Incorrect login data.',
     'Oh! %%module%% didn\'t load!': 'Error loading the app.',
     'Oh! Unfortunately, we can\'t load SDK': 'Error loading the app.',
-    'Session has been lost': 'Session lost.'
+    'Session has been lost': 'Session lost.',
+
+    "Charts": "",
+    "Multicharts": "",
+    "All units": "",
+    "Units": "",
+    "Unit groups": "",
+    "Average": "",
+    "Total": ""
 };

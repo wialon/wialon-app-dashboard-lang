@@ -82,7 +82,7 @@ var TRANSLATIONS = {
     "Session has been lost": "Relácia stratená.",
 
     "Charts": "Graf",
-    "Multicharts ": "Multi Graf",
+    "Multicharts": "Multi Graf",
     "All units": "Všetky vozidlá",
     "Units": "Vozidlá",
     "Unit groups": "Skupiny vozidiel",
