@@ -12,6 +12,10 @@ var TRANSLATIONS = {
     "Previous": "Späť",
     "Next": "Ďalší",
 
+    "h.": "", // hours, short
+    "m.": "", // minuts, short
+    "s.": "", // seconds, short
+
     // datepicker
     "Close": "Zatvoriť",
     "Prev": "Predchadzajúci",

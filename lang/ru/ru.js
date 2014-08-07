@@ -12,6 +12,10 @@ var TRANSLATIONS = {
     "Previous": "Назад",
     "Next": "Вперед",
 
+    "h.": "ч.", // hours, short
+    "m.": "м.", // minuts, short
+    "s.": "с.", // seconds, short
+
     // datepicker
     "Close": "Закрыть",
     "Prev": "Пред",
