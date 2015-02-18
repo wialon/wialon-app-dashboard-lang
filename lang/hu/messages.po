@@ -562,4 +562,4 @@ msgstr "átlag"
 
 #: dashboard/dutil.js:155
 msgid "Stays"
-msgstr ""
+msgstr "Állásidő"
